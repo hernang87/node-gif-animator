@@ -1,0 +1,29 @@
+{
+  "name": "node-gif-animator",
+  "version": "0.0.1",
+  "description": "Gif animator built with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernang87/node-gif-animator.git"
+  },
+  "keywords": [
+    "gif",
+    "animator",
+    "node",
+    "images"
+  ],
+  "author": "Hernan Garchtrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernang87/node-gif-animator/issues"
+  },
+  "homepage": "https://github.com/hernang87/node-gif-animator#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "gm": "^1.23.0"
+  }
+}
